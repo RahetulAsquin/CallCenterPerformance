@@ -3,4 +3,15 @@
 
 # Description of dataset
 ## dataset has 5000 rows and 9 columns.
+#### Attributes of dataset are
+1. Call id
+2. Date
+3. Agent(customer Nmae)
+4. Department
+5. Answered(Y/N)
+6. Resolved(Y/N)
+7. Speed of Answer
+8. AvgTalkDuration
+9. satisfaction rating
+
 

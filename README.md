@@ -6,7 +6,7 @@
 #### Attributes of dataset are:
 1. Call id
 2. Date
-3. Agent(customer Nmae)
+3. Agent
 4. Department
 5. Answered(Y/N)
 6. Resolved(Y/N)

@@ -3,7 +3,7 @@
 
 # Description of dataset
 ### dataset has 5000 rows and 9 columns.
-#### Attributes of dataset are
+#### Attributes of dataset are:
 1. Call id
 2. Date
 3. Agent(customer Nmae)
